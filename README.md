@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cooperransom
-- 👀 I’m interested in ... "toatal legal coding" 
-- 🌱 I’m currently learning ... "total legal coding"
-- 💞️ I’m looking to collaborate on ... "total legal coding" 
-- 📫 How to reach me ... discord s1mpl3_skys#8704
+- 👀 I’m interested in ... "pen testing and malicious coding" 
+- 🌱 I’m currently learning ... "pen testing"
+- 💞️ I’m looking to collaborate on ... "ip pulling, key logging, Ddos and more attacks" 
+- 📫 How to reach me ... Cozi#9999
 
 <!---
 Cooperransom/Cooperransom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
